@@ -30,7 +30,7 @@ The workflow includes:
 ---
 
 ### 📁 Files in This Workspace
-- `dsn_multilingual_topic_generation.ipynb`: Complete notebook for Kaggle/Colab execution
+- `submission-csv.ipynb`: Complete notebook for Kaggle/Colab execution
 - `train.csv`: Training dataset with multilingual news articles
 - `test.csv`: Test dataset for inference
 - `sample_submission.csv`: Submission template in the required format
